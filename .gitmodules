@@ -1,0 +1,4 @@
+[submodule "themes/blowfish"]
+  path = themes/blowfish
+  url = https://github.com/nunocoracao/blowfish.git
+  branch = main   # 可选：跟踪 main 分支；也可以不写，固定在某个提交
